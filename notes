@@ -1,0 +1,22 @@
+every time there was a tweet with 'coordinates' but no 'place,' it was tweeted by https://twitter.com/judenebo, who lives in Lagos, Nigeria.
+
+write an essay?
+add screenshots of code and math
+write about issues of google sent analysis
+write about limits for google sent analysis
+noise in data (like tweets with just links, sarcasm, etc)
+
+GloVe - global vector...
+finding word clusters
+change word to vector
+
+movie genre classification - hw5
+
+use words like corpus and vectors
+metrics
+
+OVERLAY EACH STATE WITH # OF TWEETS
+
+laughter registers as positive sentiment
+
+61085 tweets used
